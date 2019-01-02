@@ -1,0 +1,10 @@
+.am-tab-bar-tab:nth-child(3)>.am-tab-bar-tab-icon{
+position:relative;
+top: -8px;
+left:0   
+}
+.am-tab-bar-tab:nth-child(3)>p{
+position:relative;
+top: -17px;
+left:0 
+}
